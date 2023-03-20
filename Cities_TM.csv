@@ -1,0 +1,28 @@
+City 1,City 2,Distnace
+Timisoara,Buzias,36
+Timisoara,Ciacova,32
+Timisoara,Deta,42
+Timisoara,Faget,83
+Timisoara,Gataia,54
+Timisoara,Jimbolia,45
+Timisoara,Lugoj,70
+Timisoara,Recas,28
+Timisoara,Sannicolau Mare,66
+Buzias,Ciacova,53
+Buzias,Deta,61
+Buzias,Gataia,49
+Buzias,Lugoj,26
+Buzias,Recas,29
+Ciatova,Deta,16
+Ciatova,Gataia,42
+Ciatova,Jimbolia,66
+Ciatova,Sannicolau Mare,101
+Deta,Gataia,27
+Deta,Recas,76
+Faget,Lugoj,33
+Faget,Recas,58
+Faget,Sannicolau Mare,147
+Gataia,Jimbolia,101
+Gataia,Recas,78
+Jimbolia,Sannicolau Mare,40
+Lugoj,Recas,36
